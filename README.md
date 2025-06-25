@@ -20,7 +20,11 @@
   <a href="https://github.com/ilke-kas" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=PYwhar0AAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
 </div>
+
 
 <hr>
 
