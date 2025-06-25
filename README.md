@@ -24,3 +24,15 @@
 
 <hr>
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,matlab,csharp" />
+  <img src="https://skillicons.dev/icons?i=ros,unity,react,nodejs,django,git,azure,opencv" />
+</p>
+
+<hr>
+
+
