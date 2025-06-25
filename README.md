@@ -1,5 +1,4 @@
-## Hi there 👋
-**ilke-kas/ilke-kas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/ilke-kas/ilke-kas/blob/main/software-developer.png" alt="You & Robots">
 
 Here are some ideas to get you started:
 
