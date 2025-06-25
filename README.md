@@ -1,11 +1,12 @@
 <img src="https://github.com/ilke-kas/ilke-kas/blob/main/You&Robots.png" alt="You & Robots">
 
-- 🔬 Currently researching **Robotics, AI, HRI, Computer Vision, and Cognitive Modeling** as a Ph.D. student at Case Western Reserve University (ECSE), Callahan Fellow  
-- 🧠 Member of **MeRCIS** and **skills-ai Lab**
-- 💻 Recent projects: Surgical simulation in Unity, attention/emotion detection, AI-assisted spatial navigation, robot confirmation methods
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=650&height=70&color=4493F8&duration=4000&lines=Hi+there!+👋;+I'm+Ilke+Kas!;+PhD+Student+in+Robotics+and+AI" />
 </h1>
+
+- 🔬 Currently researching **Robotics, AI, HRI, Computer Vision, and Cognitive Modeling** as a Ph.D. student at Case Western Reserve University (ECSE), Callahan Fellow  
+- 🧠 Member of **MeRCIS** and **skills-ai Lab**
+- 💻 Recent projects: Surgical simulation in Unity, attention/emotion detection, AI-assisted spatial navigation, robot confirmation methods
 
 <br>
 
