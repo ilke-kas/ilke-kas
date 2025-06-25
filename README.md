@@ -1,4 +1,4 @@
-<img src="https://github.com/ilke-kas/ilke-kas/blob/main/software-developer.png" alt="You & Robots">
+<img src="https://github.com/ilke-kas/ilke-kas/blob/main/You&Robots.png" alt="You & Robots">
 
 Here are some ideas to get you started:
 
