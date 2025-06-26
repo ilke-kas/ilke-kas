@@ -44,7 +44,7 @@
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ilke-kas&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Ilke Kas's GitHub Stats" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=ilke-kas&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Ilke Kas's Most Used Languages" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=ilke-kas&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en&cache_seconds=5" alt="Ilke Kas's Most Used Languages" />
 </div>
 
 <hr>
