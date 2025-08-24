@@ -5,7 +5,7 @@
 </h1>
 
 - 🔬 Currently researching **Robotics, AI, HRI, Computer Vision, and Cognitive Modeling** as a Ph.D. student at Case Western Reserve University (ECSE), Callahan Fellow  
-- 🧠 Member of **MeRCIS** and **skills-ai Lab**
+- 🧠 Member of **MeRCIS** , **skills-ai Lab**  and **xLab**
 - 💻 Recent projects: Surgical simulation in Unity, attention/emotion detection, AI-assisted spatial navigation, robot confirmation methods
 
 <br>
